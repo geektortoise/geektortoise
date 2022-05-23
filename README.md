@@ -31,7 +31,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=geektortoise&count_private=true&theme=vue&include_all_commits=true&show_owner=true&show_icons=true)
 
-![Metrics](https://metrics.lecoq.io/geektortoise?template=classic&repositories=1&isocalendar=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&config.timezone=Europe%2FBrussels)
+![Metrics](https://metrics.lecoq.io/geektortoise?template=classic&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Europe%2FBrussels)
 
 ## Links
 

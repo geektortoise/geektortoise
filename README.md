@@ -1,21 +1,24 @@
-# Hello
+<h1 align="center"> Hello, I'm Renaud </h1>
+
+* :briefcase: Currently working as the Chief Technology Officer in the [Cytomine company](https://cytomine.com/).
+* :mag: Interested in Free Software paradigm, Technological education, Democracy, Open Law and Open Justice
 
 ## Technologies & Tools
 
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=ea2d2e)
-![](https://img.shields.io/badge/-Latex-informational?style=flat&logo=latex&logoColor=white&color=505050)
-![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=ea2d2e)
+![LaTex](https://img.shields.io/badge/-Latex-informational?style=flat&logo=latex&logoColor=white&color=505050)
+![VueJS](https://img.shields.io/badge/-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 
 ## Highlighted Projects
 

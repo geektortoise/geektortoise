@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Renaud </h1>
 
-* :briefcase: Currently working as the Chief Technology Officer in the [Cytomine company](https://cytomine.com/).
+* :briefcase: Currently working as Software Engineer in the [SFEIR Belgium company](https://sfeir.com/).
 * :mag: Interested in Free Software paradigm, Technological education, Democracy, Open Law and Open Justice
 
 ## Technologies & Tools

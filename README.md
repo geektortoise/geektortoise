@@ -30,6 +30,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geektortoise&repo=Code-des-societes-et-des-associations&show_icons=true&line_height=27&title_color=6aa6f8&text_color=000000&icon_color=6aa6f8" alt="Code-des-societes-et-des-associations" />
 </a>
 
+## 📝 Blog posts (in French)
+You can find my blog posts on [SFEIR.dev](https://www.sfeir.dev/)
+### Portraits and stories
+#### Les pionniers de la liberté
+* [Du voyage spatial jusqu’à UNIX](https://www.sfeir.dev/success-story/les-pionniers-de-la-liberte-du-voyage-spatial-jusqua-unix/)
+* [Le gnou contre l’imprimante](https://www.sfeir.dev/success-story/les-pionniers-de-la-liberte-le-gnou-contre-limprimante/)
+* [Linus et le manchot qui embrassa le monde](https://www.sfeir.dev/success-story/les-pionniers-de-la-liberte-linus-et-le-manchot-qui-embrassa-le-monde/)
+#### Developer mindset
+* [Maman, je suis un hackeur !](https://www.sfeir.dev/securite/maman-je-suis-un-hackeur/)
+
+### Retour d'expériences
+* [Comment j’ai survécu à la certification Oracle Certified Professional: Java SE 17 Developer](https://www.sfeir.dev/back/comment-jai-survecu-a-la-certification-oracle-certified-professional-java-se-17-developer/)
+* [Comment étudier pour réussir la certification Kafka](https://www.sfeir.dev/data/reussir-la-certification-kafka/)
+
+### Others
+* [Qu'est ce que l'AI Act européen ?](https://www.sfeir.dev/ia/what-is-ia-act/)
+
+
 ## GitHub activities
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=geektortoise&count_private=true&theme=vue&include_all_commits=true&show_owner=true&show_icons=true)

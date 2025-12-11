@@ -62,10 +62,3 @@ You can find my blog posts on [SFEIR.dev](https://www.sfeir.dev/)
 
 ![Metrics](https://metrics.lecoq.io/geektortoise?template=classic&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Europe%2FBrussels)
 
-## Links
-
-<p align="center">
-  <a href="https://geektortoise.be/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="My web site"/></a>
-  <a href="https://www.linkedin.com/in/renaud-hoyoux/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-</p>
-
